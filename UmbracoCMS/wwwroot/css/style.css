@@ -2,7 +2,7 @@
 
 :root {
     --clr-neutral: #FFF;
-    --clr-white: F2EDDC;
+    --clr-white: #F2EDDC;
     --clr-white-100: #F7F7F7;
     --clr-dark: #0E0E0E;
     --clr-primary: #4F5955;
@@ -25,5 +25,4 @@ body {
     font-size: 2.5rem;
     color: var(--clr-primary);
     font-weight: 700;
-
 }
